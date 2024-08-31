@@ -153,5 +153,7 @@ public class Conversion extends JFrame implements ActionListener {
         myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         myFrame.pack();
         myFrame.setVisible(true);
+
+        // testing
     }
 }
