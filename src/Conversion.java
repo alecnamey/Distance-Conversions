@@ -28,7 +28,7 @@ public class Conversion extends JFrame implements ActionListener {
         // Set frame's title
         setTitle("Conversions");
 
-        
+        // Init of variables
         distanceInput = new JLabel("Distance(Miles):");
         metersLabel = new JLabel("Meters:");
         kilometersLabel = new JLabel("Kilometers:");
